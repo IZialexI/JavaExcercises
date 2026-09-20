@@ -1,5 +1,5 @@
 public class JavaVariablesAndConstants {
-	public static void main(String[]args) {
+	public static void main(String[] args) {
 		// String for the name
 		// final because it's a constant
 		// Constants never change
