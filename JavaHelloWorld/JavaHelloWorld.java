@@ -5,6 +5,6 @@ public class JavaHelloWorld {
 	public static void main (String[] args) {
 		// To print `Hello World!` on the CLI
 		// ln prints an Enter after the string
-		System.out.println ("Hello World!");
+		System.out.println("Hello World!");
 	}
 }
